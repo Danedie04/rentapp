@@ -6,4 +6,4 @@ This project is a car rental application developed using Flutter, Firebase, Bloc
 
 
 
-![rentapp](https://github.com/Danedie04/rentapp/upload/main/assets)
+![rentapp](https://github.com/Danedie04/rentapp/blob/main/assets/Readmerentapp.png)
